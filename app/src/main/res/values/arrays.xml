@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blood_array_item">
+        <item>RH-A</item>
+        <item>RH-B</item>
+        <item>RH-O</item>
+        <item>RH-AB</item>
+    </string-array>
+    <string-array name="donationtype_array_item">
+        <item>전체</item>
+        <item>전혈</item>
+        <item>성분헌혈</item>
+        <item>혈소판</item>
+    </string-array>
+    <string-array name="relation_array_item">
+        <item>부</item>
+        <item>모</item>
+        <item>자</item>
+        <item>배우자</item>
+        <item>조부모</item>
+        <item>친척</item>
+        <item>동료</item>
+        <item>봉사회</item>
+    </string-array>
+    <string-array name="statustype_array_item">
+        <item>사고</item>
+        <item>질병</item>
+        <item>출산</item>
+        <item>기타</item>
+    </string-array>
+    <string-array name="reqlist_array_item">
+        <item>전체목록</item>
+        <item>긴급요청목록</item>
+        <item>항시요청목록</item>
+    </string-array>
+</resources>
